@@ -47,7 +47,7 @@ That's all.
 {% endcapture %}
 {% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %}      
       
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.      
+See a [live version of Moon](http://systemalee.github.io) hosted on GitHub.      
 
 ## Site Setup
 A quick checklist of the files you’ll want to edit to get up and running.    
