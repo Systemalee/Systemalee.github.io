@@ -11,7 +11,9 @@ comments: true
 ### Linux Command 
 
 mount
+
 commnad : mount [option] [device] [directory]
+
 ###[OPTION]
 -a :  Mount all the filesystems in "/ etc / fstab".
 -c :  Specifies the file system. It is used with a file system name like "-t ext2".
@@ -30,11 +32,13 @@ noatime : Option to not change access time until file is read
 username= account, password = password 
 acl : Access Control Lists mount option
 
+
 ###[DEVICE]
 FDD: /dev/fd0
 CD/DVD: /dev/cdrom, /dev/dvd
 IDE HDD: dev/hda
 USB, SCSI HDD, SATA HDD: /dev/sda, /sdb
+
 
 ###Example
 mount -o port=2049,nolock,proto=tcp -t nfs 187.1.45.172:/home/ehdgns104/nfs/ /mnt/
