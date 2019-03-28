@@ -19,4 +19,4 @@ comments: false
 
 See a [Systemalee Blog](http://systemalee.github.io) hosted on GitHub.
       
-[Install Blog thema](https://github.com/TaylanTatli/Moon){: .btn}
+[Install Blog theme(https://github.com/TaylanTatli/Moon){: .btn}
