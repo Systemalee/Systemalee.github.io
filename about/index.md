@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: Who is Systemalee
+tags: [systemalee, Introduce]
 date: 2016-03-21
 comments: false
 ---
@@ -9,29 +9,14 @@ comments: false
 <center><a href="http://systemalee.github.io"><b>Systemalee</b></a> Systemalee blog</center>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* Major : Electronic and electrical computer engineering
+* University : Pusan University 
+* Residential area : Seoul
 
 ## Preview
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Systemalee Blog" cols=2 %}
 
-See a [live version of Moon](http://systemalee.github.io) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+See a [Systemalee Blog](http://systemalee.github.io) hosted on GitHub.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Install Blog thema](https://github.com/TaylanTatli/Moon){: .btn}
